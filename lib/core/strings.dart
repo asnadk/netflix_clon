@@ -1,0 +1,1 @@
+const KbaseURL="https://developer.themoviedb.org";
